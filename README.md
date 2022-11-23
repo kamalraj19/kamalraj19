@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kamalraj19
 - 👀 I’m interested in Software Testing
 - 🌱 I’m currently learning Automation Testing
-- 💞️ I’m looking to collaborate with SAp ERP Team
+- 💞️ I’m looking to collaborate with SAP ERP Team
 - 📫 Reach me through
 - E-mail: kamalraj7766@gmail.com(or)
 - Mobile: +91-9360701657
